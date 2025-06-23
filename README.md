@@ -195,7 +195,7 @@ Process files in smaller batches if necessary
 
 ## Development
 
-This tool was developed using [Claude Code](https://www.anthropic.com/claude/code), Anthropic's AI-powered command line development tool, in collaboration with the research team. The final implementation, methodology, and scientific validation remain the responsibility of the authors.
+This tool was developed using [Claude Code](https://www.anthropic.com/claude-code), Anthropic's AI-powered command line development tool, in collaboration with the research team. The final implementation, methodology, and scientific validation remain the responsibility of the authors.
 
 
 ## Citation
@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## References
 
-- Shea BJ, Reeves BC, Wells G, et al. AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ. 2017;358:j4008.
+- Shea B J, Reeves B C, Wells G, Thuku M, Hamel C, Moran J et al. AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both BMJ 2017; 358 :j4008 doi:10.1136/bmj.j4008.
 - [Anthropic Claude API Documentation](https://docs.anthropic.com/)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 
