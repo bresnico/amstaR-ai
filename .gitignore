@@ -1,0 +1,65 @@
+# API keys and sensitive files
+.env
+.Renviron
+*.key
+*_key.txt
+config.json
+secrets/
+
+# Data and results
+data/
+*.pdf
+*.csv
+*.xlsx
+*.json
+results/
+output/
+exports/
+
+# R-specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.RDS
+.Rprofile
+
+# R package management
+packrat/
+renv/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Tests (be careful - you might want to keep test structure)
+# tests/
+# Uncomment the line above if you want to ignore all tests
+tests/testthat/*.csv
+tests/testthat/*.pdf
+tests/testthat/*.xlsx
+
+# Generated documentation
+man/
+docs/
+*.html
+CLAUDE.md
