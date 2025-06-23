@@ -197,7 +197,7 @@ Process files in smaller batches if necessary
 
 This tool was developed using [Claude Code](https://www.anthropic.com/claude/code), Anthropic's AI-powered command line development tool, in collaboration with the research team. The final implementation, methodology, and scientific validation remain the responsibility of the authors.
 
-```
+
 ## Citation
 
 When using this tool in research publications, please cite:
